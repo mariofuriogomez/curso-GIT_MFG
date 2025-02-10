@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  form div {
+    margin-bottom: 10px;
+  }
+  
+  .clientes-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .cliente-card {
+    flex: 1 1 calc(100% - 20px); /* Tarjetas ocupan todo el ancho, ajusta si prefieres columnas */
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cliente-card h3 {
+    margin: 0 0 10px 0;
+  }
+  
+  .cliente-card p {
+    margin: 5px 0;
+  }
+  
+  .cliente-card button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .cliente-card button:hover {
+    background-color: #0056b3;
+  }
+  
+  .cliente-card .delete {
+    background-color: #dc3545;
+  }
+  
+  .cliente-card .delete:hover {
+    background-color: #a71d2a;
+  }
+  
