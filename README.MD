@@ -5,15 +5,28 @@
 ##### Cabecera H5 -> Se utiliza para casos especiales.
 ###### Cabecera H6 -> Se utiliza para aclaraciones al márgen.
 
-
+# Underlines
 Underline 1
 -----------
 
 Underline 2
 ===========
 
+# Formatos de énfasis
 - formato *itálica*
 - formato _itálica_
 - formato **bold** o __Strong__
 - formato ~~tachado~~, formato normal
 - podemos combinar todos los formatos anteriores _italica_, **bold** y ~~tachado~~
+
+# Listas.
+## Ordenada
+1. Elemento 1.
+2. Elemento 2.
+3. Elemento 3.
+
+## Desordenada
+- Elemento 1.
+- Elemento 2.
+- Elemento 3.
+
