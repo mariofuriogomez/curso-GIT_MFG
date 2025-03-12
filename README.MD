@@ -6,4 +6,14 @@
 ###### Cabecera H6 -> Se utiliza para aclaraciones al márgen.
 
 
-Soy un readme.
+Underline 1
+-----------
+
+Underline 2
+===========
+
+- formato *itálica*
+- formato _itálica_
+- formato **bold** o __Strong__
+- formato ~~tachado~~, formato normal
+- podemos combinar todos los formatos anteriores _italica_, **bold** y ~~tachado~~
