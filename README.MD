@@ -35,3 +35,9 @@ Underline 2
 [Esto es un link en MarkDown](https://www.lyceumdigital.eu/)
 [Esto es un link de index.html](index.html)
 [Esto es un link a la cabecera de Listas](#listas)
+
+# Imagenes
+Se componen de un sigo de admiración, unos corchetes con la descripción de la imagen y luego entre paréntesis el lugar donde se encuentra la imagen, que puede ser una imagen.
+Ejemplo -> ![Logo Github](https://image.flaticon.com/icons/svg/25/25231.svg)
+
+
