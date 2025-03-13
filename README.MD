@@ -30,3 +30,8 @@ Underline 2
 - Elemento 2.
 - Elemento 3.
 
+# Links
+<a href="https://www.lyceumdigital.eu> Esto es un link html</a>
+[Esto es un link en MarkDown](https://www.lyceumdigital.eu/)
+[Esto es un link de index.html](index.html)
+[Esto es un link a la cabecera de Listas](#listas)
