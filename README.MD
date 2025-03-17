@@ -37,7 +37,45 @@ Underline 2
 [Esto es un link a la cabecera de Listas](#listas)
 
 # Imagenes
-Se componen de un sigo de admiración, unos corchetes con la descripción de la imagen y luego entre paréntesis el lugar donde se encuentra la imagen, que puede ser una imagen.
-Ejemplo -> ![Logo Github](https://image.flaticon.com/icons/svg/25/25231.svg)
+![Logo Github](https://image.flaticon.com/icons/svg/25/25231.svg)
 
+# Code Snippets
+```javascript
+ function getfocus()
+    {
+            document.getElementById('w3s').focus();
+    }
+    
+    function losefocus()
+    {
+            document.getElementById('w3s').blur();
+    }
+```
 
+# Tablas
+| Nombre | Apellido | Documento |
+| :- | -: | :-: |
+| Mario | Furio | 33463084Q |
+| Albert | Company | 12225638Y |
+| Esto es | la última | línea |
+| Esto es | una prueba | para hacer |
+|
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que se relaciona con la cita anterior.
+
+# Líneas Divisorias.
+
+Esto es un texto que será dividido.
+
+---
+Esto es otro texto dividido por tres asteriscos.
+
+***
+
+Esto es otro texto dividido por tres guiones bajos.
+
+___
