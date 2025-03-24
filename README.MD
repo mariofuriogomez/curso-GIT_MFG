@@ -79,3 +79,12 @@ Esto es otro texto dividido por tres asteriscos.
 Esto es otro texto dividido por tres guiones bajos.
 
 ___
+
+# Saltos de línea.
+Este es nuestro primer párrafo.
+
+Este es nuestro segundo párrafo.
+
+Este es nuestro tercer párrafo.
+- Elemento 1 de la lista
+- Elemento 2 de la lista.
