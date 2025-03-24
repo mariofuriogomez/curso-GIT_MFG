@@ -1,3 +1,6 @@
+# Versión del curso
+Versión actual: v1.2.2
+
 # Cabecera H1 -> Se utiliza para títulos
 ## Cabecera H2 -> Se utiliza para sub-títulos.
 ### Cabecera H3 -> Se utiliza para títulos de secciones.
